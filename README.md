@@ -17,4 +17,3 @@
 
 ##
 - If it works, don't touch it
-<div style="width:100%;height:0;padding-bottom:94%;position:relative;"><iframe src="https://giphy.com/embed/B4dt6rXq6nABilHTYM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/fun-meme-hacker-B4dt6rXq6nABilHTYM">via GIPHY</a></p>
