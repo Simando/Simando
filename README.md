@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Simando 👋
 
-<!--
-**Simando/Simando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🔭 I’m currently working on Raspberry Pi Network and DevOps Toolkit
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: https://www.jakubsimon.net
 
-Here are some ideas to get you started:
+## My GitHub Stats
+![Simando's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simando&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Simando&layout=compact&theme=radical)
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/jakub-šimon-1b1918261/)
+- [Instagram](https://www.instagram.com/simand03d/profilecard/?igsh=MXNocnQzaGE0b2J0cQ==)
