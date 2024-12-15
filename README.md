@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: https://www.jakubsimon.net
 
+- If it works, don't touch it
+
 ## My GitHub Stats
 ![Simando's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simando&show_icons=true&theme=radical)
 
